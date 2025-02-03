@@ -1,5 +1,5 @@
 <h2>Numerical Methods</h2>
-- About this Repo: During my second year at the Faculty of Mathematics and Computer Science at Ovidius University in Constanța, as part of the computer science curriculum, I studied 'Numerical Methods.' For this course, I participated in a team project focused on implementing and solving first and second-order differential equations using both Euler and Runge-Kutta methods.
+&emsp;About this Repo: During my second year at the Faculty of Mathematics and Computer Science at Ovidius University in Constanța, as part of the computer science curriculum, I studied 'Numerical Methods.' For this course, I participated in a team project focused on implementing and solving first and second-order differential equations using both Euler and Runge-Kutta methods.
 
 <br>&emsp;Initially, I structured the project by creating a simple folder that contained only a main file and the classic .venv folder from PyCharm. I was able to organize the project structure with multiple folders representing categories with resources that the application can use. Using Numpy, I processed both types of data: the initial inputs and the results of the calculations. To create detailed tables both in code and in HTML visualization, I used Pandas. The application allows for the visualization of parameters and results in HTML format with a single click on the "Export JSON" button. Additionally, I created the necessary classes to follow the DRY and OOP principles in most of the code. Finally, I decided to use a JSON to store data, which was my first time using it. This is visible in both the code and the interface, as I implemented two special buttons for JSON: one to open an HTML page with the JSON data and another to clear the JSON file. The clear functionality is essential when first opening the interface to ensure proper data management, as otherwise only the current session's data would be removed.
 <br>&emsp;Building upon the technical foundation, I focused on implementing Clean Code principles throughout the project, ensuring the code remained maintainable and easy to understand for future updates. One of the new challenges I tackled was implementing multithreading in Python, which is visibly demonstrated through the dynamic button colors in the interface. Within our team collaboration, I took ownership of the interface development and design, while the Matplotlib calculations and visualizations, along with the Runge-Kutta calculations, were exclusively handled by my colleague.
@@ -15,6 +15,12 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+  </a>
+  <a href="https://scientific-python.org/spyder/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" alt="Spyder IDE" width="40" height="40"/>
+  </a>
 </div>
 
 <h2>Images:</h2>
