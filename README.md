@@ -24,7 +24,6 @@
 </div>
 
 <h2>Images:</h2>
-
 <div align="center" style="display: grid; 
                           grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
                           gap: 20px;
